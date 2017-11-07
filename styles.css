@@ -10,9 +10,9 @@ body {
     padding: 30px;
 }
 
-h1 { text-align: center;text-shadow: 2px 3px darkgray;}
+#header { text-align: center;text-shadow: 2px 3px darkgray;}
 
-p { text-align: center;font-size: 120%;}
+.intro { text-align: center;font-size: 120%;}
 
  img {
     display: block;
